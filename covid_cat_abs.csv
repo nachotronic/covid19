@@ -1,0 +1,375 @@
+codi_abs;Àrea Bàsica de Salut de residència;Casos positius;Taxes estandarditzades per edat i sexe per 100.000 habitants;CODISS,C,4;NOMSS,C,60;CODIRS,C,2;NOMRS,C,50;CODIAGA,C,2;NOMAGA,C,50;N_REA,N,16,2
+1;Agramunt;6;89.5;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;180433243,92
+2;Alcarràs;19;136.3;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;195864725,11
+3;Alfarràs/Almenar;18;179.5;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;209863577,71
+4;Amposta;21;76.2;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;50;Montsià;227690636,51
+5;Anglès;13;100.9;6462;Girona Sud;64;Regió Sanitària Girona;58;Gironès Sud i Selva Interior;227915499,37
+7;Aran;50;587.1;7107;Aran;71;Regió Sanitària Alt Pirineu i Aran;04;Aran;632989236,71
+8;Arbúcies/Sant Hilari;8;63.5;6462;Girona Sud;64;Regió Sanitària Girona;58;Gironès Sud i Selva Interior;168636454,12
+9;Arenys de Mar;39;153.7;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;28127239,45
+10;Argentona;37;220.9;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;71518337,18
+11;Artés;12;103.6;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;226176350,51
+12;Artesa de Segre;2;43.9;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;378764060,00
+13;El Vendrell;48;101.1;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;08;Baix Penedès;106771298,03
+14;Balaguer;104;326.1;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;912589073,12
+15;Banyoles;57;179.9;6462;Girona Sud;64;Regió Sanitària Girona;57;Gironès Nord i Pla de l'Estany;230653907,47
+16;Barcelona 10D - Besòs;64;226.5;7846;Barcelona Ciutat Vella;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;998943,14
+17;Barcelona 10E - Encants;67;337.4;7846;Barcelona Ciutat Vella;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;1073366,88
+18;Barcelona 10F - Camp de l'Arpa;90;340.8;7846;Barcelona Ciutat Vella;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;807048,93
+19;Barcelona 10G - El Clot;55;211.8;7846;Barcelona Ciutat Vella;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;662307,71
+20;Barcelona 10H - Sant Martí;59;252.9;7846;Barcelona Ciutat Vella;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;441642,02
+21;Barcelona 10I - La Pau;38;279;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;627503,34
+22;Barcelona 10J - Verneda Sud;52;199.7;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;685476,17
+23;Barcelona 1A - Barceloneta;22;145.7;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;706314,52
+24;Barcelona 1B - Casc Antic;39;194;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;650713,32
+25;Barcelona 1C - Gòtic;18;119.4;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;1023343,11
+27;Barcelona 1D - Raval Sud;36;133.6;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;70;Barcelona Dreta;1087700,43
+28;Barcelona 1E - Raval Nord-Dr. Sayé;34;145.5;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;70;Barcelona Dreta;1100440,96
+29;Barcelona 2A - Sant Antoni;130;348.2;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;70;Barcelona Dreta;492821,62
+30;Barcelona 2B - Via Roma;106;319.9;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;70;Barcelona Dreta;682235,39
+31;Barcelona 2C- Esq.Eix.-Comte Borrell;125;342.2;7851;Barcelona Eixample;78;Regió Sanitària Barcelona;70;Barcelona Dreta;432005,95
+32;Barcelona 2D - Universitat;65;309.7;7849;Barcelona Sants - Montjuïc;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;2629785,94
+33;Barcelona 2E - Esq.Eixample-Casanova;87;242.7;7849;Barcelona Sants - Montjuïc;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;1405276,74
+34;Barcelona 2G - Dreta Eixample;67;281.2;7849;Barcelona Sants - Montjuïc;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;15542165,06
+35;Barcelona 2H - Passeig Sant Joan;61;215.5;7849;Barcelona Sants - Montjuïc;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;860740,24
+36;Barcelona 2I - Sagrada Família;71;307.3;7849;Barcelona Sants - Montjuïc;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;494991,21
+38;Barcelona 2J - Monumental;79;262.2;7849;Barcelona Sants - Montjuïc;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;724735,01
+39;Barcelona 3B - Poble Sec-Montjuïc;71;270.6;7848;Barcelona Les Corts;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;609659,08
+40;Barcelona4B - Les Corts-Pedralbes;45;195.8;7848;Barcelona Les Corts;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;988643,69
+41;Barcelona 3C - Dr. Carles Riba;68;420.1;7848;Barcelona Les Corts;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;4452314,36
+42;Barcelona 3D - Bordeta;112;330.5;7850;Barcelona Sarrià - Sant Gervasi;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;1002641,60
+43;Barcelona 3E - Sants;78;349.5;7850;Barcelona Sarrià - Sant Gervasi;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;1043073,15
+44;Barcelona 3G - Numància;60;233.6;7850;Barcelona Sarrià - Sant Gervasi;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;1259843,88
+45;Barcelona 3H - La Marina;56;276.8;7850;Barcelona Sarrià - Sant Gervasi;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;13641991,87
+46;Barcelona 4A - Montnegre;81;254.9;7850;Barcelona Sarrià - Sant Gervasi;78;Regió Sanitària Barcelona;47;Barcelona Nord;3003713,96
+47;Barcelona 4C - Les Corts-Helios;81;231;7852;Barcelona Gràcia;78;Regió Sanitària Barcelona;70;Barcelona Dreta;567960,93
+48;Barcelona 5A - Marc Aureli;53;183.7;7852;Barcelona Gràcia;78;Regió Sanitària Barcelona;70;Barcelona Dreta;722934,76
+49;Barcelona 5B - Sant Elies;61;170.2;7852;Barcelona Gràcia;78;Regió Sanitària Barcelona;70;Barcelona Dreta;607790,97
+50;Barcelona6D - Vallcarca;52;226.4;7852;Barcelona Gràcia;78;Regió Sanitària Barcelona;47;Barcelona Nord;1446794,44
+51;Barcelona 5E - Sant Gervasi;67;181.8;7853;Barcelona Horta - Guinardó;78;Regió Sanitària Barcelona;70;Barcelona Dreta;1009894,21
+52;Barcelona 6A - Joanic;112;345.8;7853;Barcelona Horta - Guinardó;78;Regió Sanitària Barcelona;70;Barcelona Dreta;361500,12
+53;Barcelona 6B - Vila de Gràcia;80;298.8;7853;Barcelona Horta - Guinardó;78;Regió Sanitària Barcelona;47;Barcelona Nord;751140,70
+54;Barcelona 6C - Lesseps;75;310.8;7853;Barcelona Horta - Guinardó;78;Regió Sanitària Barcelona;47;Barcelona Nord;894966,31
+55;Barcelona 6E - La Salut;85;326;7853;Barcelona Horta - Guinardó;78;Regió Sanitària Barcelona;47;Barcelona Nord;6742317,70
+56;Barcelona 7A - Sanllehy;77;323.5;7853;Barcelona Horta - Guinardó;78;Regió Sanitària Barcelona;47;Barcelona Nord;1167038,24
+59;Barcelona 7C - El Carmel;65;303.2;7854;Barcelona Nou Barris;78;Regió Sanitària Barcelona;47;Barcelona Nord;526847,14
+62;Barcelona 7E - Sant Rafael;159;454.8;7854;Barcelona Nou Barris;78;Regió Sanitària Barcelona;47;Barcelona Nord;960805,04
+63;Barcelona 7F - Lisboa;110;460.1;7854;Barcelona Nou Barris;78;Regió Sanitària Barcelona;47;Barcelona Nord;944296,09
+64;Barcelona 7G - Guinardó;153;439.8;7854;Barcelona Nou Barris;78;Regió Sanitària Barcelona;47;Barcelona Nord;3173056,45
+65;Barcelona 8J - Cotxeres;118;420.4;7855;Barcelona Sant Andreu;78;Regió Sanitària Barcelona;70;Barcelona Dreta;1054891,63
+67;Barcelona 9A - Sagrera;105;286.1;7855;Barcelona Sant Andreu;78;Regió Sanitària Barcelona;70;Barcelona Dreta;790846,83
+69;Barcelona 9C - Congrés;154;399.9;7855;Barcelona Sant Andreu;78;Regió Sanitària Barcelona;47;Barcelona Nord;2146351,00
+70;Barcelona 9E - Bon Pastor;53;361.4;7855;Barcelona Sant Andreu;78;Regió Sanitària Barcelona;47;Barcelona Nord;812238,41
+71;Barcelona  3I -  Badal;88;314.8;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;3052062,30
+72;Barcelona  5C - Sarrià;53;182.4;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;1880252,09
+73;Barcelona  7D - Lisboa;132;429.1;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;1215920,85
+74;Barcelona  8H - Ciutat Meridiana;48;329.1;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;1229854,17
+75;Barcelona  8K - Porta;106;507.4;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;70;Barcelona Dreta;347238,85
+76;Barcelona  8L - Prosperitat-Verdum;165;510.6;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;70;Barcelona Dreta;472763,40
+77;Barcelona  9H - CAP Sant Andreu;119;349.5;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;617197,96
+78;Barcelona 10A - Vila Olímpica;72;196.4;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;705014,39
+79;Barcelona 10B - Ramon Turró;63;228;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;605757,27
+80;Bàscara;7;138.5;6461;Girona Nord;64;Regió Sanitària Girona;51;Alt Empordà;174816794,52
+81;Bellpuig;4;58.3;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;185833506,62
+82;Berga;49;210.4;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;60;Berguedà;382021592,48
+83;Besalú;8;110.7;6461;Girona Nord;64;Regió Sanitària Girona;53;Garrotxa;260079438,73
+84;La Bisbal d'Empordà;6;34.6;6461;Girona Nord;64;Regió Sanitària Girona;52;Baix Empordà;239325035,34
+85;Blanes;35;87.4;6462;Girona Sud;64;Regió Sanitària Girona;56;Selva Marítima;17744114,21
+86;Les Borges Blanques;26;164;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;526949996,33
+87;Les Borges del Camp;1;13.8;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;139794816,86
+88;Calaf;16;219.1;6735;Anoia;67;Regió Sanitària Catalunya Central;19;Anoia;401229523,81
+89;Caldes de Montbui;55;235.2;7842;Vallès Oriental;78;Regió Sanitària Barcelona;68;Baix Vallès;68646137,61
+90;Calella;20;103.5;6462;Girona Sud;64;Regió Sanitària Girona;55;Alt Maresme;8010466,06
+91;Cambrils;13;39.5;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;36600292,33
+92;Camprodon;2;67.3;6461;Girona Nord;64;Regió Sanitària Girona;54;Ripollès;293234162,65
+93;Canet de Mar;27;117.4;6462;Girona Sud;64;Regió Sanitària Girona;55;Alt Maresme;46556391,01
+95;Cardedeu;45;223.7;7842;Vallès Oriental;78;Regió Sanitària Barcelona;69;Vallès Oriental Central;41409945,59
+96;Cardona;14;271.6;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;126970105,60
+97;Castellar del Vallès;67;256.7;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;86355620,33
+98;Montserrat;10;74.3;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;98827600,74
+100;Cassà de la Selva;56;179.5;6462;Girona Sud;64;Regió Sanitària Girona;58;Gironès Sud i Selva Interior;258695466,04
+101;Celrà;11;120.4;6462;Girona Sud;64;Regió Sanitària Girona;57;Gironès Nord i Pla de l'Estany;93229964,41
+102;Centelles;55;454.8;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;58449636,02
+103;La Cerdanya;16;96.4;7164;Alt Pirineu;71;Regió Sanitària Alt Pirineu i Aran;02;Cerdanya;388657263,65
+104;Cerdanyola del Vallès 1 - Serraparera;89;355.6;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;11745131,56
+105;Cerdanyola del Vallès 2 - Canaletes-Fontetes;92;373.4;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;17826058,18
+106;Cervera;47;236.5;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;484142307,23
+107;Constantí;6;102;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;31036707,41
+108;Cornellà de Llobregat 1 - Martí Julià;57;178.8;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;5242230,00
+109;Cornellà de Llobregat 2 - St Ildefons;24;90;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;590895,01
+110;Cornellà de Llobregat 3 - Gavarra;19;133.2;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;339538,08
+111;Cornellà de Llobregat 4 -Jaume Soler;21;117.9;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;813698,55
+112;Cornudella de Montsant;0;0.0;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;230079241,49
+113;Deltebre;2;10.3;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;49;Baix Ebre;166043733,90
+114;L'Escala;13;79.7;6461;Girona Nord;64;Regió Sanitària Girona;51;Alt Empordà;123588572,83
+115;Esparraguera;29;110.6;7831;Baix Llobregat Nord;78;Regió Sanitària Barcelona;65;Baix Llobregat Nord;92740835,85
+116;Esplugues de Llobregat 1-Can Vidalet;23;120.9;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;1163306,42
+117;Esplugues de Llobregat 2 - Lluís Millet;34;117;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;3335407,13
+118;Falset;3;44.7;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;281095702,33
+119;Figueres;39;85.8;6461;Girona Nord;64;Regió Sanitària Girona;51;Alt Empordà;51440275,44
+120;Flix;5;58.8;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;48;Altebrat;430946865,74
+121;La Garriga;56;189.4;7842;Vallès Oriental;78;Regió Sanitària Barcelona;69;Vallès Oriental Central;99290888,14
+122;Gavà 1;66;330.8;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;63;Baix Llobregat Litoral i Viladecans;16451245,20
+123;Gavà 2;108;425.1;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;63;Baix Llobregat Litoral i Viladecans;14205865,51
+124;Girona 1 - Santa Clara;56;243.9;6462;Girona Sud;64;Regió Sanitària Girona;57;Gironès Nord i Pla de l'Estany;16422018,90
+125;Girona 2 - Can Gibert del Pla;77;259.8;6462;Girona Sud;64;Regió Sanitària Girona;57;Gironès Nord i Pla de l'Estany;3289879,27
+126;Girona 3 - Montilivi;95;274.4;6462;Girona Sud;64;Regió Sanitària Girona;57;Gironès Nord i Pla de l'Estany;10122576,42
+127;Girona 4 - Taialà;38;251.7;6462;Girona Sud;64;Regió Sanitària Girona;57;Gironès Nord i Pla de l'Estany;178076622,13
+128;Baix Berguedà;11;88.3;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;60;Berguedà;221871592,35
+129;La Granadella;8;256.4;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;325829359,38
+130;Alt Berguedà;9;170.3;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;60;Berguedà;402646069,66
+131;Anoia Rural;51;477.1;6735;Anoia;67;Regió Sanitària Catalunya Central;19;Anoia;430264195,08
+133;La Jonquera;9;129.3;6461;Girona Nord;64;Regió Sanitària Girona;51;Alt Empordà;267419867,82
+134;Llançà;4;52.5;6461;Girona Nord;64;Regió Sanitària Girona;51;Alt Empordà;109995626,45
+135;Lleida 1 Centre Històric-Rambla Ferran;27;148.5;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;1047807,21
+136;Lleida 2 Primer de Maig;54;192.7;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;22988217,12
+137;Lleida 3 Eixample;53;233.4;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;15894627,80
+138;Lleida 4 Balàfia - Pardinyes;44;172;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;15710735,26
+139;Lleida 5 Cappont;33;216.7;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;5129340,15
+140;Lleida 6 Bordeta - Magraners;24;163.2;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;69541737,48
+141;Lleida Rural 1 - Nord;32;138.5;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;179281341,97
+142;Lloret de Mar;39;97.2;6462;Girona Sud;64;Regió Sanitària Girona;56;Selva Marítima;86488994,46
+143;Malgrat de Mar;18;67.1;6462;Girona Sud;64;Regió Sanitària Girona;55;Alt Maresme;25254844,83
+144;Manlleu;68;340.5;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;17234022,65
+145;Manresa 1;31;139.1;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;116456928,80
+146;Manresa 2 - Plaça Catalunya;35;148.6;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;5738864,61
+147;Manresa 3;27;179.6;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;3995673,67
+148;Manresa 4 - Sagrada Família;44;187.4;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;11895916,89
+149;Martorell Urbà;53;194.8;7831;Baix Llobregat Nord;78;Regió Sanitària Barcelona;65;Baix Llobregat Nord;28210576,41
+150;Martorelles;41;274.6;7842;Vallès Oriental;78;Regió Sanitària Barcelona;68;Baix Vallès;21250513,12
+152;Mataró 6 - Ronda Gatass;43;214.3;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;1123024,56
+153;Mataró  2 - Centre;25;143.6;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;1118348,79
+154;Mataró  3 - Rocafonda;21;118.6;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;4253701,83
+155;Mataró 4 - Cirera Molins;45;202.6;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;11939446,68
+156;Mataró 5 - Ronda Cerdanya;33;158;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;1091256,02
+157;Mataró 6 - Ronda Gatassa;20;139.2;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;742066,89
+158;Mataró 7 - Ronda Prim;23;154.7;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;2151714,31
+159;Moià;11;96.6;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;201357119,99
+160;Molins de Rei;26;88.4;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;24572999,03
+161;Pla d'Urgell;48;125.4;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;333055452,76
+162;Montblanc;13;75.8;6257;Alt Camp - Conca de Barberà;62;Regió Sanitària Camp de Tarragona;06;Alt Camp i Conca de Barberà;436297655,69
+163;Mont-Roig del Camp;4;29.6;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;131185142,19
+164;Montornès / Montmeló;118;396.2;7842;Vallès Oriental;78;Regió Sanitària Barcelona;69;Vallès Oriental Central;39966505,71
+165;Móra la Nova - Móra d'Ebre;4;26;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;48;Altebrat;445059295,42
+166;El Morell;3;29.7;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;54026508,34
+167;Navàs/Balsareny;19;177.4;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;206863893,20
+168;Olesa de Montserrat;65;302.7;7831;Baix Llobregat Nord;78;Regió Sanitària Barcelona;65;Baix Llobregat Nord;16626007,72
+169;Alt Urgell-Sud;8;136.2;7164;Alt Pirineu;71;Regió Sanitària Alt Pirineu i Aran;01;Alt Urgell;512546986,09
+171;Olot;107;258.9;6461;Girona Nord;64;Regió Sanitària Girona;53;Garrotxa;86990980,77
+172;Palafrugell;26;87.1;6461;Girona Nord;64;Regió Sanitària Girona;52;Baix Empordà;100090021,86
+173;Palamós;44;147.7;6461;Girona Nord;64;Regió Sanitària Girona;52;Baix Empordà;52995257,38
+174;Pallars Sobirà;10;155.1;7164;Alt Pirineu;71;Regió Sanitària Alt Pirineu i Aran;03;Pallars;1378216034,32
+175;Parets del Vallès;90;559;7842;Vallès Oriental;78;Regió Sanitària Barcelona;68;Baix Vallès;9117020,75
+176;Penedès Rural;28;82.3;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;61;Alt Penedès;387209468,47
+177;Peralada;4;52.2;6461;Girona Nord;64;Regió Sanitària Girona;51;Alt Empordà;240810693,36
+178;L'Ametlla de Mar - El Perelló;1;6.5;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;49;Baix Ebre;167743558,80
+179;La Pobla de Segur;39;774.1;7164;Alt Pirineu;71;Regió Sanitària Alt Pirineu i Aran;03;Pallars;507234172,65
+180;Alta Ribagorça;5;134.7;7164;Alt Pirineu;71;Regió Sanitària Alt Pirineu i Aran;37;Alta Ribagorça;435613855,01
+181;Ponts;4;106.2;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;383705551,07
+182;El Prat de Llobregat 1 - Ramona Via;100;447.1;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;4775978,61
+183;El Prat de Llobregat 2 - Sant Cosme I;171;535.2;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;12827275,59
+184;El Prat de Llobregat 3 - Dr. Pujol Capçada;48;410.8;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;15922299,48
+185;Lluçanès;10;143.6;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;295117023,17
+186;Premià de Mar;77;196;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;8587626,14
+187;Ripoll-Sant Joan de les Abadesses;34;206.7;6461;Girona Nord;64;Regió Sanitària Girona;54;Ripollès;322844342,10
+188;Riudoms;5;41.2;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;105037569,03
+189;Roses;15;44.4;6461;Girona Nord;64;Regió Sanitària Girona;51;Alt Empordà;141657246,67
+190;Sabadell  5 - Gràcia-Merinals;86;453.4;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;2493045,50
+191;Sabadell 1A - Centre;141;411.1;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;1570879,25
+192;Sabadell 1B - Sant Oleguer;97;425.6;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;7679503,93
+193;Sabadell 2 - Creu Alta;97;385.5;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;1167768,06
+194;Sabadell 3A - Ca n'Oriac;141;682.5;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;6052224,05
+196;Sabadell 4B - Can Rull;107;492.3;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;4695386,61
+197;Sabadell 6 - Sud;155;506.3;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;3866213,95
+198;Sabadell 7 - La Serra;30;367.2;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;6491524,43
+199;Salt;100;282;6462;Girona Sud;64;Regió Sanitària Girona;58;Gironès Sud i Selva Interior;74431557,75
+200;Sallent;13;164.8;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;64945070,55
+201;Sant Andreu de La Barca;48;181.5;7831;Baix Llobregat Nord;78;Regió Sanitària Barcelona;65;Baix Llobregat Nord;7430753,68
+202;Sant Boi de Llobregat 1 - Montclar;117;313.8;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;64;Baix Llobregat Litoral i Sant Boi;2712981,96
+203;Sant Boi de Llobregat 2 - Molí Nou;68;311.7;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;64;Baix Llobregat Litoral i Sant Boi;11377724,98
+204;Sant Boi de Llobregat 3 - Camps Blancs;29;259.9;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;64;Baix Llobregat Litoral i Sant Boi;3209638,29
+205;Sant Boi de Llobregat 4 - Vinyets;55;247.6;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;64;Baix Llobregat Litoral i Sant Boi;11439804,22
+206;Sant Carles de La Ràpita;3;13.2;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;50;Montsià;132473782,64
+207;Sant Celoni;42;123.5;7842;Vallès Oriental;78;Regió Sanitària Barcelona;67;Baix Montseny;212228478,17
+208;Sant Feliu de Guíxols;27;75.4;6461;Girona Nord;64;Regió Sanitària Girona;52;Baix Empordà;105284696,20
+209;Sant Feliu de Llobregat 1 - El Pla;9;51.3;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;3781160,61
+210;Sant Feliu de Llobregat 2 - Rambla;36;139;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;8157132,86
+211;Navarcles - Sant Fruitós de Bages;40;168.5;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;150683927,54
+212;Sant Hipòlit de Voltregà;33;457.6;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;58685129,90
+213;Sant Joan Despí 1;17;88;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;4720869,13
+214;Sant Joan Despí 2 - Les Planes;17;123.1;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;1502208,56
+215;Sant Joan de Vilatorrada;31;230.8;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;157649938,87
+216;Sant Just Desvern;29;171.2;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;7784897,87
+217;Sant Quirze de Besora;13;242.6;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;164456286,11
+218;Sant Sadurní d'Anoia;30;134.3;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;61;Alt Penedès;131582517,26
+219;Sant Vicenç de Castellet;23;146.4;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;75158448,59
+221;Santa Coloma de Farners;29;196.3;6462;Girona Sud;64;Regió Sanitària Girona;58;Gironès Sud i Selva Interior;103483705,69
+222;Santa Coloma de Gramenet  5 - Santa Rosa;53;257.3;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;459185,29
+223;Santa Coloma de Gramenet 1 - Can Mariner;55;234.3;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;678086,30
+224;Santa Coloma de Gramenet 2 - Llatí;60;400.5;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;4183076,24
+225;Santa Coloma de Gramenet 3 - Singuerlín;88;451.9;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;578427,85
+226;Santa Coloma de Gramenet 4-Riu Nord-Riu Sud;95;391.9;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;787999,53
+228;Santa Coloma de Queralt;7;157.4;6735;Anoia;67;Regió Sanitària Catalunya Central;19;Anoia;232929939,42
+229;Santa Margarida de Montbui;67;707.7;6735;Anoia;67;Regió Sanitària Catalunya Central;19;Anoia;27602959,50
+230;Santa Perpètua de la Mogoda;78;336.9;7842;Vallès Oriental;78;Regió Sanitària Barcelona;68;Baix Vallès;15524857,94
+231;Sarrià de Ter;37;284.4;6462;Girona Sud;64;Regió Sanitària Girona;57;Gironès Nord i Pla de l'Estany;70948534,28
+232;Seròs;13;155;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;318552988,37
+233;La Seu d'Urgell;25;149.9;7164;Alt Pirineu;71;Regió Sanitària Alt Pirineu i Aran;01;Alt Urgell;1099806880,32
+234;Sils/Vidreres/Maçanet de la Selva;25;117.3;6462;Girona Sud;64;Regió Sanitària Girona;58;Gironès Sud i Selva Interior;171462804,32
+235;Sitges;32;118.3;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;62;Garraf;37860579,91
+236;El Solsonès;4;32;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;875564563,77
+237;Súria;12;124.9;6763;Solsonès - Bages - Berguedà;67;Regió Sanitària Catalunya Central;59;Bages i Solsonès;196022495,00
+238;Santa Eugènia de Berga;64;365.1;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;223232875,73
+239;Tarragona 1 - Bonavista-La Canonja;6;47.6;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;4796466,50
+240;Tarragona 2 - La Granja-Torreforta;16;68.3;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;17965071,53
+241;Tarragona 3 - Jaume I;21;65;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;3004622,62
+242;Tarragona 4;9;53.4;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;53928205,36
+243;Tarragona 5 - Sant Pere i Sant Pau;9;56.6;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;3392018,62
+244;Tarragona 6 - Tarragonès;13;66.2;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;2124486,85
+245;Tàrrega;70;286;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;284588355,18
+246;Terra Alta;4;31.6;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;48;Altebrat;742603321,17
+247;Terrassa A - Sant Llàtzer;144;333.4;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;2438333,77
+248;Terrassa B - Est;67;285;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;7055788,22
+249;Terrassa C - Antoni Creus;20;184.5;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;7047915,28
+250;Terrassa D - Oest;73;236.5;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;34129430,10
+251;Terrassa E - Rambla;166;259.5;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;33786762,77
+252;Terrassa F - Nord;129;311.3;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;32961379,73
+253;Tona;30;242.9;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;118362215,74
+254;Vall del Ges;52;273.9;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;75051491,37
+255;Tortosa 1 Est - El Temple;22;89.9;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;49;Baix Ebre;201789178,37
+256;Tortosa 2 - Oest;21;86.7;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;49;Baix Ebre;509084787,84
+257;Torredembarra;29;76.6;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;123668026,04
+258;Torroella de Montgrí;2;13.3;6461;Girona Nord;64;Regió Sanitària Girona;52;Baix Empordà;132410168,27
+259;Tremp;13;146.5;7164;Alt Pirineu;71;Regió Sanitària Alt Pirineu i Aran;03;Pallars;827922508,01
+260;Ulldecona;3;23.6;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;50;Montsià;235610593,32
+261;Vallirana;29;121.7;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;47889880,58
+262;Alt Camp Est;7;58.4;6257;Alt Camp - Conca de Barberà;62;Regió Sanitària Camp de Tarragona;06;Alt Camp i Conca de Barberà;407180560,49
+263;Valls Urbà;28;102.2;6257;Alt Camp - Conca de Barberà;62;Regió Sanitària Camp de Tarragona;06;Alt Camp i Conca de Barberà;75686452,60
+265;Viladecans 1;101;456.4;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;63;Baix Llobregat Litoral i Viladecans;15078317,36
+266;Viladecans 2;126;596.2;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;63;Baix Llobregat Litoral i Viladecans;2495991,90
+267;Vilafant;17;122.5;6461;Girona Nord;64;Regió Sanitària Girona;51;Alt Empordà;359011323,29
+269;Vilanova del Camí;74;629.9;6735;Anoia;67;Regió Sanitària Catalunya Central;19;Anoia;10479327,38
+271;Vilassar de Mar;43;164.3;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;12914463,58
+272;Badalona  9 - Apenins-Montigalà;80;436.4;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;1075302,17
+273;Badalona 12 - Morera-Pomar;59;477.8;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;1009952,97
+274;Badalona 2 - Centre-Dalt la Vila;54;295.1;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;837256,27
+275;Badalona 3 - Progrés-Raval;76;364.5;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;1414104,20
+276;Badalona 4 - Gorg;37;280.5;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;749412,62
+277;Badalona 5 - Sant Roc;57;329.6;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;503535,00
+279;Badalona 7B - La Salut;55;322.2;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;683795,27
+280;Badalona 8 - Nova Lloreda;53;337.3;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;1095140,38
+281;Badalona 1 - Martí i Julià;42;319.6;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;493075,47
+282;Badalona 10 - Nova Lloreda;42;406.3;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;6130695,32
+283;Badalona 11 - Bufalà-Canyet;85;387.1;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;6230117,88
+284;Granollers 1 Oest - Canovelles;35;160.9;7842;Vallès Oriental;78;Regió Sanitària Barcelona;69;Vallès Oriental Central;13679885,54
+285;Granollers 2 Nord - Les Franqueses;49;175;7842;Vallès Oriental;78;Regió Sanitària Barcelona;69;Vallès Oriental Central;30275204,79
+286;Granollers 3 - Centre Est;63;206.9;7842;Vallès Oriental;78;Regió Sanitària Barcelona;69;Vallès Oriental Central;1873085,68
+287;Granollers 4 Sud - Sant Miquel;40;246.2;7842;Vallès Oriental;78;Regió Sanitària Barcelona;69;Vallès Oriental Central;5294318,95
+288;L'Hospitalet de Llobregat 1 - Centre;120;379.5;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;1749795,28
+289;L'Hospitalet de Llobregat 2 -S.Josep;107;423.7;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;1194000,47
+290;L'Hospitalet de Llobregat 3 - Collblanc;41;156.1;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;510286,81
+291;L'Hospitalet de Llobregat 4 Torrassa;50;176.1;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;443521,70
+292;L'Hospitalet de Llobregat 5-S.Eulàlia N.;112;535.7;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;608933,30
+293;L'Hospitalet de Llobregat 6-S.Eulàlia S.;133;542.7;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;744707,97
+294;L'Hospitalet de Llobregat 7-Florida N.;33;150;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;260166,58
+295;L'Hospitalet de Llobregat 8-Florida S.;36;156.3;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;535895,53
+296;L'Hospitalet de Llobregat 9-Pubilla C.;45;152.9;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;593908,35
+297;L'Hospitalet de Llobregat 10 - C.Serra;43;306.6;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;282061,49
+298;L'Hospitalet de Llobregat 11 - Gornal;27;321.4;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;2788264,05
+299;L'Hospitalet de Llobregat 12 (Bellvitge);111;390.6;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;25;L'Hospitalet Sud i el Prat de Llobregat;2830375,89
+300;La Llagosta;35;245.1;7842;Vallès Oriental;78;Regió Sanitària Barcelona;68;Baix Vallès;3019659,46
+303;Reus 1 - Sant Pere;3;23.3;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;651961,48
+304;Reus 1 - Sant Pere;9;31.9;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;7501259,46
+305;Reus 3 - Llibertat;17;70;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;15781368,82
+306;Reus 4 - Horts de Miró;10;49;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;20667230,53
+307;Reus 5 - Barri Fortuny;5;19.4;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;13472315,63
+309;Rubí 1;44;147.9;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;3790432,57
+310;Rubí 2 - Anton Borja;78;311.6;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;2765431,05
+311;Sant Adrià Del Besòs 1 - Dr. Barraquer;94;451.8;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;1862381,28
+312;Sant Adrià Del Besòs 2 - La Mina;30;207.5;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;1946473,58
+314;Baix Penedès - Interior;14;97.3;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;08;Baix Penedès;114788102,86
+315;Vall del Tenes;73;206.7;7842;Vallès Oriental;78;Regió Sanitària Barcelona;69;Vallès Oriental Central;75887788,79
+316;Vilanova i La Geltrú 1;43;167.8;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;62;Garraf;6325827,60
+317;Vilanova i La Geltrú 2;36;145.7;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;62;Garraf;22961423,19
+319;Montgat - Tiana;61;316.8;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;10769531,44
+320;Barberà del Vallès;103;334.2;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;8202997,95
+322;Badia del Vallès;44;323.2;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;931497,77
+324;Vandellòs i L'Hospitalet de L'Infant;2;37.6;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;102755530,45
+325;Pineda de Mar;21;68.7;6462;Girona Sud;64;Regió Sanitària Girona;55;Alt Maresme;22814746,53
+326;Barcelona 7B - Sardenya;74;321.1;7853;Barcelona Horta - Guinardó;78;Regió Sanitària Barcelona;70;Barcelona Dreta;981347,49
+327;Barcelona 8C - Turó de la Peira;119;445.5;7854;Barcelona Nou Barris;78;Regió Sanitària Barcelona;47;Barcelona Nord;563575,70
+328;L'Aldea - Camarles - L'Ampolla;7;54.8;6360;Terres de l'Ebre;63;Regió Sanitària Terres de l'Ebre;49;Baix Ebre;96121734,73
+329;Lleida Rural 2-Sud;15;191.6;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;208235617,50
+330;Breda - Hostalric;21;170.1;6462;Girona Sud;64;Regió Sanitària Girona;58;Gironès Sud i Selva Interior;123309008,26
+331;Barcelona 10C - Poble Nou;63;268.3;7847;Barcelona Sant Martí;78;Regió Sanitària Barcelona;71;Barcelona Litoral Mar;559607,97
+333;Alt Camp Oest;0;0.0;6257;Alt Camp - Conca de Barberà;62;Regió Sanitària Camp de Tarragona;06;Alt Camp i Conca de Barberà;105589167,81
+334;Almacelles;3;31.9;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;162216612,57
+335;Sant Andreu De Llavaneres;38;196.9;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;20722861,34
+336;Tordera;9;50.6;6462;Girona Sud;64;Regió Sanitària Girona;55;Alt Maresme;116629785,93
+337;Capellades;69;641.9;6735;Anoia;67;Regió Sanitària Catalunya Central;19;Anoia;31110626,12
+338;Piera;61;360.7;6735;Anoia;67;Regió Sanitària Catalunya Central;19;Anoia;88151046,88
+339;Salou;11;49.6;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;15127437,42
+340;Vila-Seca;3;18.6;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;21657917,68
+341;Badalona 6 - Llefià;107;409.1;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;417803,07
+342;Badalona 7A - Gran Sol;79;416;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;493698,55
+343;Ribes De Freser-Campdevànol;0;0.0;6461;Girona Nord;64;Regió Sanitària Girona;54;Ripollès;337521421,06
+344;Sabadell 3B - Nord;76;461.9;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;745843,63
+345;Sabadell 4A - Concòrdia;66;414.5;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;3087174,84
+346;Sant Joan Les Fonts;11;202.3;6461;Girona Nord;64;Regió Sanitària Girona;53;Garrotxa;126311023,21
+347;Vall d'En Bas;10;166.7;6461;Girona Nord;64;Regió Sanitària Girona;53;Garrotxa;185359065,73
+348;Mollet del Vallès 1 - Est;104;368;7842;Vallès Oriental;78;Regió Sanitària Barcelona;68;Baix Vallès;4501710,09
+349;Mollet del Vallès 2 - Oest;123;560.1;7842;Vallès Oriental;78;Regió Sanitària Barcelona;68;Baix Vallès;6344594,74
+350;Vic 1 - Nord;112;423.6;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;62036313,77
+351;Vic 2 - Sud (El Remei);66;286.3;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;59417406,58
+352;Tarragona 7 - Sant Salvador;6;58.5;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;10523917,60
+353;Vilassar de Dalt;33;193.2;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;33;Maresme Central;15979929,33
+354;La Selva del Camp;3;41.1;6259;Baix Camp - Priorat;62;Regió Sanitària Camp de Tarragona;07;Baix Camp i Priorat;61637902,06
+355;La Roca del Vallès;21;200.5;7842;Vallès Oriental;78;Regió Sanitària Barcelona;69;Vallès Oriental Central;36901924,31
+356;Terrassa G - Sud;59;246.6;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;5950574,49
+357;Calafell;13;50.9;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;08;Baix Penedès;20308435,27
+358;Barcelona 5D-Vallvidrera-Les Planes;39;193.9;7852;Barcelona Gràcia;78;Regió Sanitària Barcelona;70;Barcelona Dreta;881477,97
+359;Cubelles-Cunit;34;119.6;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;62;Garraf;28592055,48
+360;Martorell Rural;29;115.3;7831;Baix Llobregat Nord;78;Regió Sanitària Barcelona;65;Baix Llobregat Nord;96465838,16
+361;El Masnou-Alella;72;291.1;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;11247353,03
+362;Ocata-Teià;21;133.5;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;8555691,19
+363;Sant Quirze del Vallès;111;700.8;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;13555459,81
+364;Tarragona 8 - Muralles;6;37.6;6258;Tarragonès - Baix Penedès;62;Regió Sanitària Camp de Tarragona;09;Tarragonès;1118919,05
+365;Castelldefels 1 - El Castell;81;231.8;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;63;Baix Llobregat Litoral i Viladecans;3201696,37
+366;Castelldefels 2 - Can Bou;46;171.9;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;63;Baix Llobregat Litoral i Viladecans;15953163,81
+367;Pallejà;25;237.6;7831;Baix Llobregat Nord;78;Regió Sanitària Barcelona;65;Baix Llobregat Nord;8428282,44
+368;Santa Coloma de Gramenet 6;42;222.8;7867;Barcelonès Nord i Maresme;78;Regió Sanitària Barcelona;30;Barcelonès Nord i Baix Maresme;321497,88
+369;Corbera de Llobregat;35;236;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;24;Baix Llobregat Centre i Fontsanta -L'H N;23686898,18
+370;Abrera;10;94;7831;Baix Llobregat Nord;78;Regió Sanitària Barcelona;65;Baix Llobregat Nord;19966209,44
+371;Igualada-1;128;611.6;6735;Anoia;67;Regió Sanitària Catalunya Central;19;Anoia;2035876,73
+372;Igualada-2;131;637.7;6735;Anoia;67;Regió Sanitària Catalunya Central;19;Anoia;6164001,61
+373;Begues;19;323.8;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;63;Baix Llobregat Litoral i Viladecans;50430163,96
+374;Sant Vicenç dels Horts  2 - El Serral;20;180.2;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;64;Baix Llobregat Litoral i Sant Boi;17661042,27
+375;Sant Vicenç dels Horts 1 - Vila Vella;43;204.4;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;64;Baix Llobregat Litoral i Sant Boi;5259946,67
+376;Alt Mogent;61;296.2;7842;Vallès Oriental;78;Regió Sanitària Barcelona;67;Baix Montseny;81725246,31
+377;Roda de Ter;31;294.4;6745;Osona;67;Regió Sanitària Catalunya Central;22;Osona;180930876,36
+378;Rubí -3;47;387;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;25702375,67
+379;Lleida 7 Onze de Setembre;34;196.4;6156;Lleida;61;Regió Sanitària Lleida;05;Lleida;24324352,29
+380;Vilanova i La Geltrú 3;21;102.5;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;62;Garraf;4759503,38
+381;Montcada i Reixac - 1;78;350.8;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;47;Barcelona Nord;11623554,72
+382;Montcada i Reixac - 2;37;333.7;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;47;Barcelona Nord;11450649,02
+383;Barcelona 2K - Sagrada Família;82;286.6;7849;Barcelona Sants - Montjuïc;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;671507,09
+384;Cerdanyola-Ripollet;37;292;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;2460664,56
+385;Barcelona 8F - Guineueta;149;471.3;7854;Barcelona Nou Barris;78;Regió Sanitària Barcelona;47;Barcelona Nord;538675,71
+386;Ripollet 1 - Centre;63;390.1;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;1745015,69
+387;Ripollet 2 - Pinetons;45;355.6;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;1361545,66
+388;Sant Cugat del Vallès-1;77;262.2;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;2106809,77
+389;Sant Cugat del Vallès-2;89;283;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;32346355,93
+390;Sant Cugat del Vallès-3;60;258.8;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;66;Vallès Occidental Oest;13781764,18
+391;Palau-Solità i Plegamans;23;155.9;7842;Vallès Oriental;78;Regió Sanitària Barcelona;68;Baix Vallès;15382038,53
+392;Polinyà-Sentmenat;32;207.5;7844;Vallès Occidental Est;78;Regió Sanitària Barcelona;35;Vallès Occidental Est;37464034,51
+393;Ribes-Olivella;21;111.7;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;62;Garraf;72033444,92
+394;Roquetes-Canyelles;19;104.5;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;62;Garraf;21654187,63
+395;Barcelona 9F - Via Barcino;50;517;7855;Barcelona Sant Andreu;78;Regió Sanitària Barcelona;47;Barcelona Nord;868958,88
+396;Barcelona 9I - CAP Casernes;116;439.5;7855;Barcelona Sant Andreu;78;Regió Sanitària Barcelona;47;Barcelona Nord;898616,06
+397;Vilafranca del Penedès 1;17;82.8;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;61;Alt Penedès;6233227,92
+398;Vilafranca del Penedès 2;16;78.6;7865;Alt Penedès - Garraf;78;Regió Sanitària Barcelona;61;Alt Penedès;13636671,53
+399;Castellbisbal;36;327;7843;Vallès Occidental Oest;78;Regió Sanitària Barcelona;65;Baix Llobregat Nord;15520505,98
+400;Barcelona 3A - Les Hortes-Poble Sec;46;204.8;7849;Barcelona Sants - Montjuïc;78;Regió Sanitària Barcelona;46;Barcelona Esquerra;411670,11
+401;Viladecans 3;145;719.5;7866;Baix Llobregat Centre - Litoral i L'Hospitalet de Llobregat;78;Regió Sanitària Barcelona;63;Baix Llobregat Litoral i Viladecans;13668902,81
+402;Barcelona 8G - Roquetes;91;556;7854;Barcelona Nou Barris;78;Regió Sanitària Barcelona;47;Barcelona Nord;707431,40
+403;Barcelona 8I - Xafarines;85;448.3;7854;Barcelona Nou Barris;78;Regió Sanitària Barcelona;47;Barcelona Nord;627755,97
