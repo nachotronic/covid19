@@ -43,5 +43,6 @@ data,casos,morts,greus,sanitaris,casos diaris,morts diaris,url,hospitalitzats,al
 10/04/20,2164,259,82,539,178,15,https://www.diaridegirona.cat/comarques/2020/04/10/quinze-persones-moren-coronavirus-comarques/1038830.html ,539,755,
 11/04/20,2213,263,81,528,49,3,https://www.diaridegirona.cat/comarques/2020/04/11/quatre-morts-girona-dada-mes/1038981.html ,598,797,
 12/04/20,2266,274,80,,53,11,https://www.diaridegirona.cat/girona/2020/04/12/repunt-morts-coronavirus-girona-onze/1039103.html ,580,836,
-13/04/20,2328,295,77,508,62,21,,573,882,46
+13/04/20,2328,295,77,508,62,21,https://www.diaridegirona.cat/comarques/2020/04/13/hospitals-gironins-sumen-11-noves/1039143.html ,573,882,46
 14/04/20,2410,301,77,505,82,6,https://www.diaridegirona.cat/comarques/2020/04/14/comarques-gironines-superen-300-morts/1039368.html ,582,902,9
+15/04/20,2459,312,72,476,49,11,https://www.diaridegirona.cat/comarques/2020/04/15/mort-donze-persones-mes-coronavirus/1039521.html ,575,956,50
