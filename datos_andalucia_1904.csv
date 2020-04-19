@@ -1,34 +1,34 @@
-Territorio,codigo,casos,Tasa,hombres,tasa_hombres,mujeres,tasa_mujeres
-Jaén Sur,3001,102,112,21,53,117,65
-Sevilla Sur,3002,456,106,94,182,86,9
-Campo de Gibraltar,3003,190,70,14,94,70,6
-Aljarafe,3004,437,112,46,179,93,20
-Almería,3005,193,63,99,100,66,18
-Sierra de Huelva-Andévalo Central,3009,94,139,11,34,101,24
-La Vega,3011,159,144,23,89,161,84
-Axarquia,3012,140,83,25,77,91,52
-Bahía de Cádiz-La Janda,3013,489,95,41,200,79,44
-Córdoba,3020,571,175,31,239,152,86
-Valle del Guadalhorce,3021,194,126,57,104,135,7
-Condado-Campiña,3022,83,53,53,52,67,34
-Granada Sur,3023,156,104,82,70,93,40
-Costa del Sol,3026,529,96,74,283,105,39
-Málaga,3028,1405,223,71,727,240,42
-Granada Nordeste,3029,94,95,88,49,99,23
-Huelva-Costa,3030,200,69,42,90,63,40
-Jaén,3031,589,298,76,280,289,63
-Jerez-Costa Noroeste,3032,309,90,59,143,85,14
-Levante-Alto Almanzora,3033,81,53,98,45,58,90
-Jaén Norte,3034,426,232,86,202,223,27
-Córdoba Sur,3043,457,175,0,184,141,62
-Jaén Nordeste,3045,178,109,49,88,108,43
-Granada,3046,831,347,48,384,345,96
-Sevilla Este,3047,126,74,33,65,76,88
-Guadalquivir,3048,50,40,26,31,49,90
-Córdoba Norte,3049,193,255,35,72,193,43
-Poniente de Almería,3050,184,69,39,76,54,99
-Sevilla Norte,3051,184,66,48,86,62,16
-Serranía,3052,100,181,1,36,131,83
-Metropolitano de Granada,3056,938,218,82,408,189,57
-Sevilla,3057,1126,163,52,479,146,65
-Sierra de Cádiz,3062,151,130,58,64,110,55
+id,Territorio,casos,Tasa,hombres,tasa_hombres,mujeres,tasa_mujeres
+3001,Jaén Sur,102,112,21,53,117,65
+3002,Sevilla Sur,456,106,94,182,86,9
+3003,Campo de Gibraltar,190,70,14,94,70,6
+3004,Aljarafe,437,112,46,179,93,20
+3005,Almería,193,63,99,100,66,18
+3009,Sierra de Huelva-Andévalo Central,94,139,11,34,101,24
+3011,La Vega,159,144,23,89,161,84
+3012,Axarquia,140,83,25,77,91,52
+3013,Bahía de Cádiz-La Janda,489,95,41,200,79,44
+3020,Córdoba,571,175,31,239,152,86
+3021,Valle del Guadalhorce,194,126,57,104,135,7
+3022,Condado-Campiña,83,53,53,52,67,34
+3023,Granada Sur,156,104,82,70,93,40
+3026,Costa del Sol,529,96,74,283,105,39
+3028,Málaga,1405,223,71,727,240,42
+3029,Granada Nordeste,94,95,88,49,99,23
+3030,Huelva-Costa,200,69,42,90,63,40
+3031,Jaén,589,298,76,280,289,63
+3032,Jerez-Costa Noroeste,309,90,59,143,85,14
+3033,Levante-Alto Almanzora,81,53,98,45,58,90
+3034,Jaén Norte,426,232,86,202,223,27
+3043,Córdoba Sur,457,175,0,184,141,62
+3045,Jaén Nordeste,178,109,49,88,108,43
+3046,Granada,831,347,48,384,345,96
+3047,Sevilla Este,126,74,33,65,76,88
+3048,Guadalquivir,50,40,26,31,49,90
+3049,Córdoba Norte,193,255,35,72,193,43
+3050,Poniente de Almería,184,69,39,76,54,99
+3051,Sevilla Norte,184,66,48,86,62,16
+3052,Serranía,100,181,1,36,131,83
+3056,Metropolitano de Granada,938,218,82,408,189,57
+3057,Sevilla,1126,163,52,479,146,65
+3062,Sierra de Cádiz,151,130,58,64,110,55
