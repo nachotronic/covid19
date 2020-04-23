@@ -52,5 +52,4 @@ data,casos,morts,muertos positivos,muertos sospechosos,greus,sanitaris,casos dia
 19/04/2020,3625,451,279,172,72,412,100,18,https://www.diaridegirona.cat/comarques/2020/04/18/girona-arriba-als-433-morts/1040028.html ,529,1186,13,225,93,43,50,1,19,113,6640,279,172,841,683
 20/04/2020,3658,458,282,176,69,402,33,7,,514,1210,24,236,96,45,51,1,19,109,6912,282,176,983,697
 21/04/2020,3794,486,303,183,66,393,136,28,https://govern.cat/govern/docs/2020/04/21/22/24/7902f071-49e6-4365-bfbb-d50de875fadf.pdf ,517,1267,57,225,100,47,53,1,20,140,7323,303,183,1101,746
-,,,,,,,,,,,,,,,,,,,,,,,,
-data,casos,morts,muertos positivos,muertos sospechosos,greus,sanitaris,casos diaris,morts diaris,url,hospitalitzats,altes,altes diaries,muertos_hospital,muertos_residencias,muertos_residencias_confirmados,muertos residencias sospechosos,sociosanitario,muertos_domicilio,muertos sin clasificar,casos sospechosos,muertos confirmados,muertos sospechosos,residencias sospechosos,residencias confirmados
+22/04/20,3995,502,320,182,67,389,201,16,https://govern.cat/govern/docs/2020/04/22/22/46/408f9cb6-688e-4fc9-a27f-45fc8009c253.pdf ,513,1467,44,279,104,51,53,1,20,98,7960,320,182,1480,902
