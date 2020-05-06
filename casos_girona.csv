@@ -65,3 +65,6 @@ data,casos,morts,muertos positivos,muertos sospechosos,greus,sanitaris,casos dia
 02/05/20,5410,615,448,167,,,18,2,2,https://govern.cat/govern/docs/2020/05/02/21/56/4c192c5e-b3b9-4563-8f97-671612d2c0e0.pdf ,,,,330,156,119,37,2,25,102,12875,2765,1404
 03/05/20,5436,623,456,167,47,226,26,8,8, https://govern.cat/govern/docs/2020/05/03/22/06/88a54451-09e5-4f5b-9b00-7cef606259ad.pdf ,425,1966,,333,156,119,37,5,25,107,16117,2846,1421
 04/05/20,5517,655,477,178,44,,81,32,21,https://govern.cat/govern/docs/2020/05/04/23/43/e2a20fe2-f365-4fa4-91fd-8892c4fd115d.pdf ,411,1992,26,341,165,125,40,3,26,120,17016,3015,1438
+05/05/20,5617,668,485,183,40,,100,13,8,https://govern.cat/govern/docs/2020/05/05/23/28/d7170217-0fae-4d5d-9a21-e848f533f10b.pdf ,442,2206,214,396,167,127,40,3,27,75,17789,3134,1476
+,,,,,,,,,,,,,,,,,,,,,,,
+data,casos,morts,muertos positivos,muertos sospechosos,greus,sanitaris,casos diaris,morts diaris,morts confirmats diaris,url,hospitalitzats,altes,altes diaries,muertos_hospital,muertos_residencias,muertos_residencias_confirmados,muertos residencias sospechosos,sociosanitario,muertos_domicilio,muertos sin clasificar,casos sospechosos,residencias sospechosos,residencias confirmados
